@@ -20,7 +20,7 @@ To change `display` (e.g. `display: inline-block;`), we suggest using a common C
 {{/block}}
 {{#block "sprites"}}
 {{#each sprites}}
-{{{selector}}} {
+.icon-{{{name}}} {
   background-image: url({{{escaped_image}}});
   background-position: {{px.offset_x}} {{px.offset_y}};
   width: {{px.width}};

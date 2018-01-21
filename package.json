@@ -1,8 +1,8 @@
 {
   "name": "spritesheet-templates-steamer",
   "description": "Convert spritesheet data into CSS or CSS pre-processor data",
-  "version": "1.0.1",
-  "homepage": "https://github.com/twolfson/spritesheet-templates",
+  "version": "1.0.2",
+  "homepage": "https://github.com/steamerjs/spritesheet-templates",
   "author": {
     "name": "Todd Wolfson",
     "email": "todd@twolfson.com",
@@ -10,10 +10,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/twolfson/spritesheet-templates.git"
+    "url": "git://github.com/steamerjs/spritesheet-templates.git"
   },
   "bugs": {
-    "url": "https://github.com/twolfson/spritesheet-templates/issues"
+    "url": "https://github.com/steamerjs/spritesheet-templates/issues"
   },
   "license": "MIT",
   "main": "lib/spritesheet-templates",
